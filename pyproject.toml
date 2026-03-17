@@ -7,7 +7,10 @@ authors = [
     { name = "satnovaOG", email = "satnova27@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pyaudio>=0.2.14",
+    "speechrecognition>=3.15.1",
+]
 
 [build-system]
 requires = ["uv_build>=0.10.11,<0.11.0"]
