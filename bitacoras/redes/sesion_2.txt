@@ -1,0 +1,43 @@
+[14:47:14] casa edificio oficina o lo que sea que comparta una conexión a internet
+[14:47:20] todos los dispositivos contarán con direcciones IP privadas que les permitirán
+[14:47:23] entre ellos y a su router naturalmente
+[14:47:29] todas estas direcciones forman una Lan que permite que todos sus dispositivos se
+[14:47:34] entre ellos sin ningún problema aquí podemos hacer una pequeña práctica puedes
+[14:47:39] en una máquina un servidor web como engitech tengo un video completo para ello así
+[14:47:44] no es necesario detenerme aquí dentro de este servidor web puedes colocar una página a la
+[14:47:49] obviamente puedas acceder de manera local y cualquier otra computadora dentro de
+[14:47:52] podrá hacer también lo mismo
+[14:47:58] para que todos estos dispositivos se conecten a internet todos se conectan a un
+[14:48:03] o enrutador que cuenta con una dirección IP pública es decir
+[14:48:06] una dirección IP que se conecta a una red mucho más grande
+[14:48:12] a este proceso de conversión de todas las direcciones privadas a una pública se le llama
+[14:48:18] nada o Network address translation Ya viste como
+[14:48:23] local de tu equipo ahora para saber cuál es la dirección IP pública que tú tienes
+[14:48:28] puedes entrar a la dirección cuál es mi ip.com y podrás verla
+[14:48:33] un ejercicio muy básico para ver cómo funcionan las IP públicas simple
+[14:48:38] tu teléfono Pásate datos y dile a tu máquina que se conecte a esta wi-fi la del teléfono
+[14:48:43] la dirección IP pública a la que se conecta cambiará el operador de internet de
+[14:48:49] usa una dirección pública el proveedor de internet de tu casa es diferente
+[14:48:55] lo que obviamente la dirección IP pública va a cambiar ahora que ya vemos cómo
+[14:49:00] las direcciones IP hay dos elementos adicionales que debemos cubrir el primero son las direcciones IP
+[14:49:05] sesión 6 que se trata de un protocolo mucho más moderno que no usa objetos
+[14:49:09] sino que es un formato de 8 grupos con valores hexadecimales separados por
+[14:49:15] es un nuevo protocolo permite una cantidad de direcciones IP prácticamente
+[14:49:20] tablet solo hay un tema casi todo el Hardware equipos procesos
+[14:49:26] sistemas trabajan con las versiones cuatro y hasta que no exista una crisis
+[14:49:31] Ponme las direcciones versión 6 seguirán palideciendo frente a la versión 4
+[14:49:39] la segunda parte que debemos considerar es un pequeño número
+[14:49:45] adicional en las direcciones IP se agrega después de dos puntos al final de
+[14:49:51] y puede ser una cifra que pueden ir desde un par de dígitos hasta 16
+[14:49:56] números la verdad es que muy rara vez he visto puertos de más de cinco dígitos pero
+[14:50:02] cuánto cabe que es este número qué son estos puertos digamos que sí la
+[14:50:07] es una casa los puertos son las puertas o ventanas por las que puedes acceder a su
+[14:50:12] no vas a tener una IP para simplemente acceder a un equipo requieres que
+[14:50:15] no tenga sus puertos abiertos para poder acceder
+[14:50:20] el puerto más conocido es el puerto 80 que comúnmente se utiliza para
+[14:50:26] comunicación Http es decir entran a sitios web Windows
+[14:50:30] usa el puerto 3389 para acceder a un escritorio remoto
+[14:50:36] dónde estás a una base de datos por el puerto 1473 y así cada herramienta tiene
+[14:50:41] y ojo eso no quiere decir que se trate de algo estático puedes usar el puerto
+[14:50:45] 530 para acceder a un sitio web o el puerto 90 para
+[14:50:50] siempre y cuando así configures tus herramientas A lo mejor

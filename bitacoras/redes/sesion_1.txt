@@ -1,0 +1,35 @@
+[14:44:12] par de veces me emociona muchísimo era mi materia favorita en la universidad
+[14:44:15] eh De hecho la reprobé dos veces
+[14:44:20] bueno en fin la verdad es que cuando salí de la escuela fueron justo las
+[14:44:26] es lo que me mantuvo con vida en mi primer empleo en lo que perfeccionaba mis habilidades
+[14:44:30] y ahora poquito más de 16 años después resulta que
+[14:44:36] tomado de nuevo una gran relevancia para mí pero ahora para entornos de nube
+[14:44:41] todo esto como anécdota únicamente sino más bien para contarte que las redes están
+[14:44:46] mucho más presentes que nunca en nuestros ambientes de trabajo como programadores
+[14:44:51] momento de hacer un video que te explique la mayor cantidad de conceptos posibles
+[14:44:56] que debes conocer de redes
+[14:45:06] Hola Qué tal mi nombre es Emilia Espinosa soy un ingeniero de software senior en Microsoft y
+[14:45:11] mal intento plasmar más de 15 años de experiencia relacionada a programación
+[14:45:17] software the Box y mucho más si es la primera vez que nos visitas
+[14:45:21] a suscribirte Comencemos por el concepto más conocido de redes es más
+[14:45:27] para Quiénes son ajenos a todo este mundo tu dirección IP
+[14:45:31] llevan este nombre Porque son un protocolo de internet internet
+[14:45:37] y lucen de esta manera algo que podrás ver en muchísimas películas
+[14:45:43] tiendas de trabajo para conocer la dirección IP de tu máquina solo basta que escribas
+[14:45:48] y f config en una terminal de Linux o Mac o ipconfig
+[14:45:53] final de Windows esa dirección IP está compuesta de cuatro números
+[14:45:58] atentos Cómo se les debería de conocer mejor y nunca
+[14:46:00] a rebasar el número 255
+[14:46:06] Por qué objetos Y por qué este número bueno la realidad es que nosotros los vemos
+[14:46:11] números con los que estamos familiarizados sin embargo realmente se utiliza como una
+[14:46:16] echando sus valores binarios y con ocho espacios binarios es que podemos
+[14:46:19] 255 variantes
+[14:46:24] cada objeto alcanza este límite y gracias a ello las direcciones y
+[14:46:26] tener un poco más de
+[14:46:31] millones de variantes lo que naturalmente ha funcionado muy bien para sostener
+[14:46:32] internet que hoy usamos
+[14:46:38] sin embargo no sólo existe este número de dispositivos en el mundo hay
+[14:46:44] más y si te pones a pensar en las computadoras teléfonos tabletas
+[14:46:49] seguidores que existen lo podrás confirmar es por ello que existe el concepto de direcciones
+[14:46:51] privadas y direcciones IP
+[14:46:53] esto quiere decir que dentro

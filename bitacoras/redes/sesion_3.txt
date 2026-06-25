@@ -1,0 +1,50 @@
+[14:51:10] miento para comenzar con la seguridad en el manejo de los puertos es un firewall o
+[14:51:13] del inglés un muro de fuego que es capaz de permitir o impedir
+[14:51:19] el acceso de todo lo que pueda entrar o salir de tus equipos este
+[14:51:24] fuegos no es una medida infalible pero si es una gran herramienta para lograr
+[14:51:29] sesión inicial cuando un equipo se comunica a otro lo hace por medio de estas direcciones
+[14:51:35] Ya vimos en el ejercicio local que pudiste conectarte a una dirección IP
+[14:51:39] así funciona exactamente con todos los sitios web del
+[14:51:44] cualquier sitio que se te ocurra Por qué no usamos las direcciones IP en lugar de los nombres
+[14:51:49] Jajaja De seguro no te sabes de memoria 10 números telefónicos
+[14:51:55] imagínate saberte de memoria las direcciones ip de unos 150
+[14:52:00] Jajaja sería algo súper complicado y por ello Es mucho
+[14:52:05] Sí yo recordaron google.com Qué es su dirección IP esa conversión la
+[14:52:11] puedes hacer gracias a un dns o domain name System
+[14:52:15] hiciste mal lo que hace es Traducir este nombre de Amin espinoza.com a la dirección
+[14:52:16] de que el sitio está utilizando
+[14:52:22] estos dns pueden funcionar para asignarle un nombre a sitios web públicos o
+[14:52:28] una de las grandes ventajas de poder trabajar con direcciones ip es que gracias a sus octetos
+[14:52:33] comentar tus dispositivos en varios grupos si puedes crear redes para que los
+[14:52:38] se conecten entre ellos Entonces también puedes crear sus redes es decir
+[14:52:44] puedes crear un pequeño grupo de dispositivos conciertos privilegios
+[14:52:48] No lo sé unos invitados otro más para las pantallas de tu casa y
+[14:52:53] Esto lo puedes lograr asignando unos objetos para identificar la red y otros para
+[14:52:54] subred
+[14:53:00] puedes establecer el último octeto para este tema y esto te daría 255
+[14:53:02] canciones para la subred que se te ocurra
+[14:53:08] podrías si se trata de una red corporativa utilizar dos objetos y para esto
+[14:53:13] manejar 65.000 direcciones IP para asignar dentro de
+[14:53:18] de esta forma podrás generar hasta un máximo de 255 sus
+[14:53:24] cada subred puede ser marcada o establecida por medio de una máscara de subred que representa
+[14:53:28] retos utilizados por la red y los disponibles para su red o también
+[14:53:34] con una diagonal al final de la dirección IP y un número que generalmente
+[14:53:40] diagonal 16 o diagonal 24 esto le permite saber a la red general
+[14:53:45] Cuál es el límite de esa subred pasándote en los objetos por ejemplo
+[14:53:49] elecciones 192.168 00
+[14:53:54] crear una subred de tipo 192 1681.0
+[14:53:59] diagonal 24 y esto te dará 255 direcciones posibles para
+[14:54:03] pues está bien crear una subred 192
+[14:54:08] 6800 diagonal 16 que te daría
+[14:54:14] ediciones disponibles a esta forma de representar las redes y sus redes se le llama anotación
+[14:54:19] y Dr aquí lo que más importa es que aprendas a racionar
+[14:54:23] si no necesitas una subred grande entonces es ideal usar
+[14:54:29] uno de cuatro octetos sí consideras que vas a contar con muchos dispositivos para
+[14:54:34] muy común entonces puedes crear una subred mucho más grande Las subrayadas son la mejor
+[14:54:39] administrar tu red por completo porque te permiten establecer cualquier nivel de acceso en
+[14:54:40] nivel de objetivos
+[14:54:47] una de esas herramientas que sí dominas entonces contarás con un gran distintivo en tu carrera
+[14:54:51] no entonces hacemos una pausa y decirte que si te está gustando el video te suscribas al Canal dejes un
+[14:54:52] por aquí y no
+[14:54:57] Quizás te animes a Volverte miembro del Canal adquiriendo muchos beneficios adicionales Como por ejemplo
+[14:55:01] tener una llamada uno a uno mensual para platicar
