@@ -1,0 +1,8 @@
+[15:10:28] Hola Muy buenos días
+[15:10:35] soy su profesor de matemáticas discretas y hoy vamos a introducir
+[15:10:36] Ah algo
+[15:10:40] Y grafos entonces qué es un grafo un grafo
+[15:10:44] es un sistema compuesto por vectores y aristas
+[15:10:47] que eh ayuda a
+[15:10:52] ver el funcionamiento de un sistema en
+[15:10:56] todo correcto
