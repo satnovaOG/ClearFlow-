@@ -1,0 +1,10 @@
+# Entornos virtuales
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos locales y de usuario de ClearFlow
+bitacoras/
