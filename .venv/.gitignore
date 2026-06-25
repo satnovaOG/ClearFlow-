@@ -1,6 +1,9 @@
 # Entornos virtuales
 .venv/
 
+# Claves secretas
+.env
+
 # Caché de Python
 __pycache__/
 *.pyc
