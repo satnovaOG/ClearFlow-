@@ -1,0 +1,19 @@
+[project]
+name = "clearflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "satnovaOG", email = "satnova27@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "google-generativeai>=0.8.6",
+    "pyaudio>=0.2.14",
+    "python-dotenv>=1.2.2",
+    "speechrecognition>=3.15.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.10.11,<0.11.0"]
+build-backend = "uv_build"
