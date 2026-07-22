@@ -9,3 +9,4 @@ __pycache__/
 # Datos locales, de usuario y IA de ClearFlow
 bitacoras/
 .env
+config.json
